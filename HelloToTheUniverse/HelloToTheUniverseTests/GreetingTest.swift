@@ -15,6 +15,7 @@ class GreetingTest: QuickSpec {
         
         describe("Greeting Class") {
             
+            
             let testGreeting = Greeting()
             
             describe("helloUniverse()") {
